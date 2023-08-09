@@ -4,8 +4,8 @@ package e33_42_extra1alquilerbarcos;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-//public class Alquiler {
-    //private String nombre;
+public class Alquiler {
+    private String nombre;
     private String documento;
     private LocalDate fechaAlquiler;
     private LocalDate fechaDevolucion;
