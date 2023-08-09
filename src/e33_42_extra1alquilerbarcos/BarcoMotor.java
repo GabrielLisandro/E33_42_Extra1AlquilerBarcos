@@ -2,7 +2,7 @@
 package e33_42_extra1alquilerbarcos;
 
 public class BarcoMotor extends Barco {
-    private double  potenciaCV;
+    private double  potenciaCV;//poiuytrewqlkjhgfdsnbvcxz
 
     public BarcoMotor(double potenciaCV, String matricula, double eslora, int anioFabricacion) {
         super(matricula, eslora, anioFabricacion);
