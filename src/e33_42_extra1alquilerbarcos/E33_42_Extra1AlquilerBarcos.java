@@ -105,7 +105,7 @@ public class E33_42_Extra1AlquilerBarcos {
         System.out.println();
         System.out.println(alquiler1.toString());     
         
-        System.out.println("hecho por juan jajan't");
+        System.out.println("hecho por juan xd");
         
         
         
