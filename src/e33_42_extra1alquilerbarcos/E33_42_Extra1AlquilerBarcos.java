@@ -39,6 +39,7 @@ public class E33_42_Extra1AlquilerBarcos {
         switch (opcion) {
             case 1:
                 System.out.println("\n******* ALQUILER DE VELERO *******");
+                System.out.println("lalalallalalalal");
                 System.out.println("Ingrese la información del Velero:");
                 System.out.print("Matrícula: ");
                 String matriculaVelero = scanner.next();
