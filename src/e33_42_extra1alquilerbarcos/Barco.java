@@ -13,7 +13,7 @@ public abstract class Barco {
     }
     
     public double moduloAlquilerBarco() {
-        return eslora * 10;
+        return eslora*10+1;
     }
 
     @Override
