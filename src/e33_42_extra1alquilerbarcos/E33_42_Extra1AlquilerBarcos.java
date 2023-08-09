@@ -100,6 +100,7 @@ public class E33_42_Extra1AlquilerBarcos {
         System.out.println("El precio del Alquiler es $" + alquiler1.calcularAlquiler());
                 
         System.out.println("\nFecha Devolución: " + menu1.fechaDev(fechaDevolucion) );
+        System.out.println("River esta en 4tos de la libertadores");
         
         System.out.println();
         System.out.println(alquiler1.toString());     

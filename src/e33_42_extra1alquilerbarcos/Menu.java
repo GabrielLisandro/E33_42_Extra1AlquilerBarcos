@@ -28,7 +28,7 @@ public class Menu {
         return opcion;
     }
 
-    //hola =)
+    //hola =) =((((00))==
     // Fechas
     public LocalDate obtenerFecha(String mensaje) {
         System.out.print(mensaje);
