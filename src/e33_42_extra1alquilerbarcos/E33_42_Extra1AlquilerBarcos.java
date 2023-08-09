@@ -41,7 +41,7 @@ public class E33_42_Extra1AlquilerBarcos {
                 System.out.println("\n******* ALQUILER DE VELERO *******");
                 System.out.println("Ingrese la información del Velero:");
                 System.out.print("Matrícula: ");
-                String matriculaVelero = scanner.nextLine();
+                String matriculaVelero = scanner.next();
                 System.out.print("Eslora (en metros): ");
                 double esloraVelero = scanner.nextDouble();
                 System.out.print("Año de fabricación: ");
@@ -55,7 +55,7 @@ public class E33_42_Extra1AlquilerBarcos {
                 System.out.println("\n******* ALQUILER DE BARCO A MOTOR *******");
                 System.out.println("Ingrese la información del Barco a Motor:");
                 System.out.print("Matrícula: ");
-                String matriculaBarcoMotor = scanner.nextLine();
+                String matriculaBarcoMotor = scanner.next();
                 System.out.print("Eslora (en metros): ");
                 double esloraBarcoMotor = scanner.nextDouble();
                 System.out.print("Año de fabricación: ");
@@ -69,7 +69,7 @@ public class E33_42_Extra1AlquilerBarcos {
                 System.out.println("\n******* ALQUILER DE YATE DE LUJO *******");
                 System.out.println("Ingrese la información del Yate de Lujo:");
                 System.out.print("Matrícula: ");
-                String matriculaYate = scanner.nextLine();
+                String matriculaYate = scanner.next();
                 System.out.print("Eslora (en metros): ");
                 double esloraYate = scanner.nextDouble();
                 System.out.print("Año de fabricación: ");
