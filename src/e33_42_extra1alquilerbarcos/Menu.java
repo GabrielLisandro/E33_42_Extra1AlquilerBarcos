@@ -27,7 +27,8 @@ public class Menu {
         int opcion = leer.nextInt();
         return opcion;
     }
-    
+
+    //hola =)
     // Fechas
     public LocalDate obtenerFecha(String mensaje) {
         System.out.print(mensaje);
